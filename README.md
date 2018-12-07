@@ -25,6 +25,7 @@ I will try to develop the software continuously, so please don't hesitate to com
   .Convert Autonomous System Numbers from asplain to asdot and vice versa.   
 * List Reverse DNS   
 * Compress / Uncompress IPv6 Address Tool
+* IPv6 Address Type Information (20181207)
 * English, Turkish, German languages.
 
 You can download from:   
