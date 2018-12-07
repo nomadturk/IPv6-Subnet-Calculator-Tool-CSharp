@@ -28,7 +28,7 @@ I will try to develop the software continuously, so please don't hesitate to com
 * English, Turkish, German languages.
 
 You can download from:   
-https://github.com/ygvn/IPv6-Subnet-Calculator-Tool/blob/master/IPv6-Subnet-Calculator-EXE-v3.8.zip
+https://github.com/ygvn/IPv6-Subnet-Calculator-Tool/blob/master/IPv6-Subnet-Calculator-EXE-v3.9.zip
 
 
 Copyright (c) 2010-2019, Yücel Güven   
