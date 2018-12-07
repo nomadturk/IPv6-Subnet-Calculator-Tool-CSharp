@@ -8,7 +8,7 @@ This application requires no installation and does not modify any registry or cr
 I distributed the application in the hope that it will be useful for your subnet calculations.
 I will try to develop the software continuously, so please don't hesitate to comment/inform for any bugs or new feature suggestions. 
 
-![Screenshot1](https://raw.githubusercontent.com/ygvn/IPv6-Subnet-Calculator-Tool-CSharp/master/Screenshot1.png)   
+![S1.png](https://raw.githubusercontent.com/ygvn/IPv6-Subnet-Calculator-Tool-CSharp/master/S1.png)   
 ![S2.png](https://raw.githubusercontent.com/ygvn/IPv6-Subnet-Calculator-Tool-CSharp/master/S2.png)   
 ![S3.png](https://raw.githubusercontent.com/ygvn/IPv6-Subnet-Calculator-Tool-CSharp/master/S3.png)   
 ![S4.png](https://raw.githubusercontent.com/ygvn/IPv6-Subnet-Calculator-Tool-CSharp/master/S4.png)   
